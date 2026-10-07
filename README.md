@@ -237,11 +237,9 @@ Outlier detection and treatment.
 Model deployment through a web application.
 Creating an interactive house price prediction interface.
 
-
-## Author
-
+## 👨‍💻 Author
 Viren Wankhade
-
-GitHub: https://github.com/viren689
-
-LinkedIn: https://www.linkedin.com/in/viren-wankhade
+Aspiring Data Analyst | Data Science Enthusiast
+- GitHub: https://github.com/viren689
+- Portfolio: https://viren-portfolio-gamma.vercel.app/
+- Email: viren19271@gmail.com
